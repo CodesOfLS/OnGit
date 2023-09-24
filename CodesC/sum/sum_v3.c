@@ -1,7 +1,6 @@
 /*
     v0.0.3 di Luu
 */
-
 #include <stdio.h>
 
 int sum(int num1, int num2);
