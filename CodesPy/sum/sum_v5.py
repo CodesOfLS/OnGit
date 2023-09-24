@@ -1,7 +1,8 @@
-#
-# v0.2.1 di Luu
-#  5 4 5
-#
+"""
+    Sum
+    Crenator: Luu
+    Version : v0.2.1
+"""
 import sys
 
 if len(sys.argv) > 1:
