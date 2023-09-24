@@ -1,1 +1,3 @@
-print(f'A soma de 4 + 5 é igual a {4 + 5}')
+n1 = int(input('Digite um número: '))
+n2 = int(input('Digite mais um número: '))
+print(f'A soma de {n1} com {n2} e {n1 + n2}')
