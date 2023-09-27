@@ -1,0 +1,9 @@
+# Ignorar diretórios e arquivos ocultos
+.*
+
+# Ignorar executáveis
+*.exe
+
+# Exceções
+!.gitignore
+!clone_projeto/
